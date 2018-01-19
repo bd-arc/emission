@@ -182,7 +182,6 @@ exports[`looks correct when rendered 1`] = `
           <Text
             accessible={true}
             allowFontScaling={true}
-            disabled={false}
             ellipsizeMode="tail"
             style={
               Array [
@@ -255,11 +254,11 @@ exports[`looks correct when rendered 1`] = `
           onScroll={[Function]}
           onScrollBeginDrag={[Function]}
           onScrollEndDrag={[Function]}
-          onViewableItemsChanged={undefined}
           renderItem={[Function]}
           scrollEventThrottle={50}
           stickyHeaderIndices={Array []}
           updateCellsBatchingPeriod={50}
+          viewabilityConfigCallbackPairs={Array []}
           windowSize={21}
         >
           <View
@@ -357,7 +356,6 @@ exports[`looks correct when rendered 1`] = `
                     <Text
                       accessible={true}
                       allowFontScaling={true}
-                      disabled={false}
                       ellipsizeMode="tail"
                       numberOfLines={2}
                       style={
@@ -402,7 +400,6 @@ exports[`looks correct when rendered 1`] = `
                       <Text
                         accessible={true}
                         allowFontScaling={true}
-                        disabled={false}
                         ellipsizeMode="tail"
                         style={
                           Array [
@@ -442,7 +439,6 @@ exports[`looks correct when rendered 1`] = `
                     <Text
                       accessible={true}
                       allowFontScaling={true}
-                      disabled={false}
                       ellipsizeMode="tail"
                       style={
                         Array [
@@ -542,7 +538,6 @@ exports[`looks correct when rendered 1`] = `
                     <Text
                       accessible={true}
                       allowFontScaling={true}
-                      disabled={false}
                       ellipsizeMode="tail"
                       numberOfLines={2}
                       style={
@@ -587,7 +582,6 @@ exports[`looks correct when rendered 1`] = `
                       <Text
                         accessible={true}
                         allowFontScaling={true}
-                        disabled={false}
                         ellipsizeMode="tail"
                         style={
                           Array [
@@ -627,7 +621,6 @@ exports[`looks correct when rendered 1`] = `
                     <Text
                       accessible={true}
                       allowFontScaling={true}
-                      disabled={false}
                       ellipsizeMode="tail"
                       style={
                         Array [
